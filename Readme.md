@@ -6,6 +6,9 @@
 
 ## Table of contents
 
+
+# Apna college
+
 * [Installation](#Installation)
 * [Features](#Features)
 * [Docs & Community](#docs--community)
